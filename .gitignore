@@ -1,0 +1,9 @@
+# Ignore IDE/editor settings
+.vs/
+.vscode/
+
+# Ignore logs and temp files
+*.log
+
+# Ignore dependency folders (if any future project uses npm/yarn)
+node_modules/
