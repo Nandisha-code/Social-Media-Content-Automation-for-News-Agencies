@@ -5,7 +5,7 @@ python -m venv newshbot  python=3.10 -y
 ```
 ```bash
     healthbot\Scripts\activate
-``` 
+```
 =======
 <<<<<<< HEAD
 # 📌 Personal Portfolio Website
